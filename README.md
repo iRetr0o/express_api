@@ -20,7 +20,7 @@ Versión de Node: [16.14.2](https://nodejs.org/docs/latest-v16.x/api/index.html)
 
 2. Corremos nuestro servidor con `node app.js`.
 
-Podemos irnos a alguna de las url que mencionamos anteriormente en nuestro navegador o podemos probar los endpoins en Postman ya que el servidor tiene mas endpoints como ***Borrar (delete)***, ***crear (post)*** y ***actualizar (put)*** que podemos probar.
+Podemos irnos a alguna de las url que mencionamos anteriormente en nuestro navegador o podemos probar los endpoins en Postman ya que el servidor tiene mas endpoints como ***Borrar (delete)***, ***crear (post)*** y ***actualizar (put)***.
 
 ## Actividades desarrolladas
 - El uso básico de express
