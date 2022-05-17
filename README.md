@@ -11,7 +11,7 @@ npm install
 | :------------: | :------------: | :------------: |
 | Express | 4.18.0 | <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://img.shields.io/badge/Express-Documentation-lightgray?style=for-the-badge&logo=express"></a> |
 
-Versión de Node: [16.14.2](https://nodejs.org/docs/latest-v16.x/api/index.html).
+Versión de Node: <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank">16.14.2</a>.
 
 ## ¿Cómo iniciar el servidor?
 1. Debemos ver las rutas que existen que en este caso son 2:
